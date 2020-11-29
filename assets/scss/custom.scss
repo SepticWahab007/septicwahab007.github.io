@@ -1,0 +1,240 @@
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.site-footer {
+  background-color: #0a0a0a;
+  color: #ffffff;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+body {
+    font-family: inherit;
+    font-size: 1rem;
+    line-height: inherit;
+    color: inherit;
+    background-color: #0a0a0a;
+    margin-top: 70px;
+    padding-top: 0;
+    counter-reset: captions;
+}
+.col-12 {
+
+}
+body {
+    font-family: inherit;
+    font-size: 1rem;
+    line-height: inherit;
+    color: inherit;
+    background-color: #0a0a0a;
+    margin-top: 70px;
+    padding-top: 0;
+    counter-reset: captions;
+}
+html {
+    font-family: "Courgette", sans-serif;
+    font-size: 12.32px;
+    color: #ffffff;
+    line-height: 1.65;
+}
+.h3 {
+    font-weight: 700;
+    margin-top: 1.5rem;
+    font-size: 1.25rem;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Courgette", sans-serif;
+    font-weight: 400;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+    line-height: 1.25;
+    color: #ffffff;
+    text-rendering: optimizeLegibility;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    -webkit-hyphens: manual;
+    -ms-hyphens: manual;
+    hyphens: manual;
+}
+.portrait-title h2 {
+    font-size: 1.75em;
+    font-weight: 300;
+    color: #ffffff;
+    margin: 20px 0 10px 0;
+}
+.portrait-title h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    margin: 0px 0 10px 0;
+}
+.wg-hero.dark .hero-title, .wg-hero.dark .hero-lead, .wg-hero.dark .hero-cta-alt, .wg-hero.dark .hero-note > * {
+    color: #fff;
+    text-shadow: 1px 1px 4px rgb(0, 255, 252);
+}
+.home-section.dark, .home-section.dark h1, .home-section.dark h2, .home-section.dark h3, .home-section.dark a:not(.btn) {
+    color: #f8f8f2;
+	text-shadow: 1px 1px 4px rgb(0, 255, 252);
+}
+.fa-skype:before {
+    content: "\f17e";
+	color: #00f0ff;
+	text-shadow: 1px 1px 4px #00f0ff;
+}
+.fa-twitter:before {
+    content: "\f099";
+	color: #007eff;
+	text-shadow: 1px 1px 4px #007eff;
+}
+.fa-clock:before {
+    content: "\f017";
+	color: #ffffff;
+	text-shadow: 1px 1px 4px #ffffff;
+}
+.fa-compass:before {
+    content: "\f14e";
+	color: #007eff;
+	text-shadow: 1px 1px 4px #007eff;
+}
+.fa-map-marker:before {
+    content: "\f041";
+	color: #ff0a0ae0;
+	text-shadow: 1px 1px 4px #ff0a0ae0;
+}
+.fa-phone:before {
+    content: "\f095";
+	color: #00b700;
+	text-shadow: 1px 1px 4px #00b700;
+}
+.fa-youtube:before {
+    content: "\f167";
+	color: #ff0000;
+	text-shadow: 1px 1px 4px #ff0000;
+}
+.fa-facebook:before {
+    content: "\f09a";
+	color: #0000ff;
+	text-shadow: 1px 1px 4px #0000ff;
+}
+.fa-instagram:before {
+    content: "\f16d";
+	color: #fb7fb7;
+	text-shadow: 1px 1px 4px #fb7fb7;
+}
+.fa-github:before {
+    content: "\f09b";
+	color: #070707;
+	text-shadow: 1px 1px 4px #ffffff;
+}
+.fa-envelope:before {
+    content: "\f0e0";
+	color: #00ffff;
+	text-shadow: 1px 1px 4px #00ffff;
+}
+.svg-icon.svg-baseline {
+    content: "\foe0";
+}
+.navbar-light .navbar-brand {
+    color: #ffffff;
+	text-shadow: 1px 1px 4px #00f0f0;
+}
+#navbar-main .main-menu-item ul li .nav-link {
+    color: #ffffff;
+	text-shadow: 1px 1px 4px #00f0f0;
+}
+.navbar .navbar-nav .nav-link.active {
+    font-weight: bold !important;
+    color: #00f0f0 !important;
+}
+.btn-outline-primary {
+    color: #ffffff;
+    border-color: #ffffff;
+	text-shadow: 1px 1px 4px #00f0f0;
+}
+.dark .form-control {
+    background-color: #0a0a0a;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #0080ff;
+    background-color: #f00;
+    background-clip: padding-box;
+    border: 1px solid #ffffff;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.btn-toolbar .btn.btn-primary:active, .btn-toolbar .btn.btn-primary.active {
+    background-color: #00ffff !important;
+}
+.btn-primary {
+    color: #00f0f0;
+    background-color: #ffffff;
+    border-color: #000000;
+	text-shadow: 1px 1px 4px #00f0f0;
+}
+.dark a, .dark h3.article-title a:hover {
+    color: #ffffff;
+}
+.portrait-title h2 {
+    font-size: 1.75em;
+    font-weight: 300;
+    color: #ffffff;
+    margin: 20px 0 10px 0;
+	text-shadow: 1px 1px 4px #00f0f0;
+}
+.portrait-title h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    color: white;
+    margin: 0px 0 10px 0;
+	text-shadow: 1px 1px 4px #00f0f0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Courgette", sans-serif;
+    font-weight: 400;
+    margin-top: 1rem;
+    margin-bottom: .5rem;
+    line-height: 1.25;
+    color: #ffffff;
+    text-rendering: optimizeLegibility;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    -webkit-hyphens: manual;
+    -ms-hyphens: manual;
+    hyphens: manual;
+	text-shadow: 1px 1px 4px #00f0f0;
+}
+a, h3.article-title a:hover {
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.6s ease;
+	text-shadow: 1px 1px 4px #00f0f0
+}
+html {
+    font-family: "Courgette", sans-serif;
+    font-size: 12.32px;
+    color: #ffffff;
+    line-height: 1.65;
+	text-shadow: 1px 1px 4px #00f0f0
+}
+.fa-search:before {
+    content: "\f002";
+	color: #ffffff;
+	text-shadow: 1px 1px 4px #00f0f0
+}
